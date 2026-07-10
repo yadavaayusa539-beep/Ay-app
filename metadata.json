@@ -1,0 +1,6 @@
+{
+  "name": "OneTap Finance",
+  "description": "A simple, free, and offline-first finance tracking application to manage expenses and subscription reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
